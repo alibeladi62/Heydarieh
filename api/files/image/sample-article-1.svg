@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0e6b5c"/>
+      <stop offset="1" stop-color="#0a4c41"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="600" fill="url(#bg)"/>
+  <circle cx="820" cy="110" r="72" fill="#c8a45c" opacity="0.5"/>
+  <circle cx="820" cy="110" r="40" fill="#f6efdf" opacity="0.35"/>
+  <rect x="48" y="452" width="864" height="104" rx="20" fill="#062f28" opacity="0.72"/>
+  <text x="480" y="300" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Tahoma, sans-serif" font-size="56" fill="#ffffff">چرا حیدریه می‌خوانیم؟</text>
+  <text x="480" y="360" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Tahoma, sans-serif" font-size="26" fill="#c8a45c">هیئت حیدریه نجف‌اشرف ابولحسن</text>
+  <text x="480" y="516" text-anchor="middle" direction="rtl" font-family="Vazirmatn, Tahoma, sans-serif" font-size="28" fill="#f6efdf">سرصفحه مقاله</text>
+</svg>
